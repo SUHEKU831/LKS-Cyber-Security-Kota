@@ -1,4 +1,4 @@
-# LKS-Cyber-Security-Tingakat-Kota
+# LKS-Cyber-Security-Tingakat-Kota-Samarinda 
 Dibuat oleh: SUHEKU831
 
 Lomba Kompetensi Siswa (LKS) bidang Cyber Security tingkat kota adalah ajang kompetisi resmi yang diselenggarakan oleh pemerintah daerah melalui Dinas Pendidikan untuk siswa Sekolah Menengah Kejuruan (SMK). Kompetisi ini bertujuan untuk mengukur dan mengasah kemampuan teknis siswa dalam bidang keamanan siber (cyber security) sesuai dengan standar dunia industri dan kebutuhan era digital saat ini.
